@@ -1,4 +1,4 @@
-# omar-khalaf-portfolio
+# Omar Khalaf's Portfolio
 Personal portfolio of projects in business and data analytics
 
 ## [FDI and Sectoral Productivity in India](https://github.com/okhalaf123/fdi-and-sectoral-productivity-india)
