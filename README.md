@@ -1,7 +1,7 @@
 # omar-khalaf-portfolio
 Personal portfolio of projects in business and data analytics
 
-## [📊 FDI and Sectoral Productivity in India](https://github.com/okhalaf123/fdi-and-sectoral-productivity-india)
+## [FDI and Sectoral Productivity in India](https://github.com/okhalaf123/fdi-and-sectoral-productivity-india)
 
 **Summary:**  
 This project analyzes the relationship between foreign direct investment (FDI) and total factor productivity (TFP) across different sectors in India. Using macroeconomic data from the Penn World Table, WDI, and sector-level TFP data from India KLEMS, the analysis explores patterns in productivity growth, sector responsiveness to FDI inflows, and implications for policy. Key outputs include visualizations, regression results, and sector-specific recommendations.
