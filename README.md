@@ -12,4 +12,4 @@ This project analyzes the relationship between foreign direct investment (FDI) a
 - Sector-level regression analysis to estimate FDI effects on productivity.
 - Policy-oriented recommendations tailored to India’s planning agencies and ministries.
 
-**Tools Used:** R, ggplot2, dplyr, tidyr, readxl, econometric modeling
+**Tools Used:** R, econometric modeling
