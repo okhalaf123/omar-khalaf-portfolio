@@ -14,7 +14,7 @@ This project analyzes the relationship between foreign direct investment (FDI) a
 
 **Tools Used:** R, econometric modeling
 
-## [Online Review Tone and Product Evaluation Experiment](https://github.com/okhalaf123/sura-online-reviews-experiment)
+## [Review Tone, Product Type, and Rating Variance Study](https://github.com/okhalaf123/sura-online-reviews-experiment)
 
 **Summary:**  
 This project tests how review tone, product type, and star rating variance affect consumer purchase intent and product attitude. The 2×2×2 experimental design simulates online product pages and evaluates user responses to hedonic vs. utilitarian products under different review conditions. Outputs include an interactive Tableau dashboard, R-based data cleaning, and business-focused recommendations drawn from statistically significant findings.
